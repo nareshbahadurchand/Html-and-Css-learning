@@ -1,0 +1,42 @@
+h1{
+    color:rgb(102, 21, 21);
+    text-align: center;
+    text-decoration: underline;
+    text-decoration-color:black;
+    text-transform: uppercase;
+}
+h2{
+    color:black;
+    text-align:left;
+    text-transform: capitalize;
+}
+body{
+    background-color: cornflowerblue;
+}
+
+
+#bx{
+    text-align: left;
+    height: 200px;
+    width: 150px;
+    padding: 10px;
+    background-color: burlywood;
+    margin: 30px;
+    /* border-width: 5 px;
+    border-color: crimson;
+    border-style: dashed; */
+    border: 5px dashed crimson ;
+    border-radius: 10px;
+}
+
+
+#cx{
+    text-align: right;
+    height: 200px;
+    width: 150px;
+    padding: 10px;
+    background-color: rgb(180, 161, 188);
+    border: 10px dashed chartreuse;
+    border-radius: 15%;
+    
+}

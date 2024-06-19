@@ -1,0 +1,43 @@
+h1{
+    color:rgb(154, 10, 130);
+    text-align: center;
+    text-decoration: underline;
+    text-decoration-color:black;
+    text-transform: uppercase;
+}
+
+body{
+    background-color: rgb(78, 15, 215);
+}
+ div{
+    height: 100px;
+    width:100px;
+    border:5px solid black;
+    display: inline-block;
+ }
+
+ #container
+
+ {
+    width: 800px;
+    height: 200px;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+ }
+ #A
+ {
+    background-color: aqua;
+ }
+ #B
+ {
+    background-color: rgb(200, 20, 20);
+ }
+ #C
+ {
+    background-color: rgb(50, 15, 137);
+ }
+ #D
+ {
+    background-color: rgb(160, 19, 137);
+ }

@@ -1,0 +1,63 @@
+h1{
+    color:rgb(102, 21, 21);
+    text-align: center;
+    text-decoration: underline;
+    text-decoration-color:black;
+    text-transform: uppercase;
+}
+
+body{
+    background-color: rgb(114, 65, 219);
+}
+
+#A
+{
+    height: 120px;
+    width: 120px;
+    background-color: black;
+    border: 5px solid yellow;
+    display:inline-block;
+    font-size: 10px;
+    color:white;
+}
+#B
+{
+    height: 50px;
+    width:30%;
+    background-color: blue;
+    border: 3px dotted green ;
+    margin-left: 15%;
+    font-size: 1em;
+    color:red;
+}
+div
+{
+    height: 100px;
+    width: 100px;
+    background-color: brown;
+    border: 5px solid green;
+    display:inline-block;
+
+}
+
+#box1
+{
+    position: static;
+}
+#box2
+{
+    position: relative;
+    top:40px;
+}
+#box3
+{
+    position: fixed;
+    bottom: 25px;
+}
+#box4
+{
+    position: fixed;
+    right:10px;
+
+
+}

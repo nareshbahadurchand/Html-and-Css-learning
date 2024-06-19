@@ -1,0 +1,41 @@
+h1{
+    color:rgb(102, 21, 21);
+    text-align: center;
+    text-decoration: underline;
+    text-decoration-color:black;
+    text-transform: uppercase;
+}
+
+body{
+    background-color: cornflowerblue;
+}
+
+#naresh
+{
+    height: 100px;
+    width: 100px;
+    background-color: green;
+    border-radius: 50%;
+}
+
+#navbar
+{
+    height: 60px;
+    background-color: black;
+    border: 5px solid white;
+    color:white;
+    button{
+        background-color: yellow;
+    }
+    
+}
+#logo
+{
+    color: rgb(128, 128, 39);
+    font-size: 25px;
+}
+a{
+    margin-right:200px;
+    text-decoration: none;
+    color:beige;
+}

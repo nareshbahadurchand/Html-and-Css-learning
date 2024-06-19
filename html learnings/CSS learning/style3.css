@@ -1,0 +1,36 @@
+h1{ 
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    text-align: center;
+    text-decoration: overline;
+    text-decoration-color: red;
+}
+
+#MB{
+    color:blue;
+    text-align: left;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size:20px;
+    line-height: 20px;
+    text-transform: uppercase;
+}
+
+#NB{
+    color:blueviolet;
+    text-align: left;
+    font-family:'Times New Roman', Times, serif;
+    font-size: 25px;
+    line-height:25px;
+    text-transform: lowercase;
+}
+body{
+    background-color: chartreuse;
+}
+
+#NBA{
+    font-size:30px;
+    color:black;
+    text-align:left;
+    font-family: 'Franklin Gothic Medium';
+    line-height: 30px;
+    text-transform: capitalize;
+}

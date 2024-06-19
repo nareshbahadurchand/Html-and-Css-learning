@@ -1,0 +1,33 @@
+h1{
+    color:rgb(102, 21, 21);
+    text-align: center;
+    text-decoration: underline;
+    text-decoration-color:black;
+    text-transform: uppercase;
+}
+
+body{
+    background-color: rgb(114, 65, 219);
+}
+
+div{
+    height: 400px;
+    width: 400px;
+    background-color: chartreuse;
+    border: 5px solid whitesmoke;
+    border-radius: 30%;
+    display: inline-block;
+    margin-left: 50px;
+}
+
+#A
+{
+    background-image: url("IMG-20221105-WA0114.jpg");
+    background-size: cover;
+}
+#B
+{
+    background-image: url("IMG-20221105-WA0115.jpg");
+    background-size: cover;
+    
+}

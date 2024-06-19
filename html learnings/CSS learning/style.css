@@ -1,0 +1,23 @@
+body
+{
+    background-color:rgb(77, 32, 32);
+}
+button
+{
+    color:antiquewhite;
+    background-color:black;
+}
+.heading{
+    color:chartreuse;
+
+}
+#box
+{
+    color:brown;
+    background-color: blanchedalmond;
+}
+span
+{
+    color:chartreuse;
+    background-color: rgb(187, 25, 25);
+}
